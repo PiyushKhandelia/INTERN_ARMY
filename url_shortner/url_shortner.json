@@ -1,9 +1,0 @@
-{
-    "urls": [
-        {
-            "name": "Example",
-            "longUrl": "https://www.example.com",
-            "shortUrl": "https://tinyurl.com/example"
-        }
-    ]
-}
